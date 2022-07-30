@@ -1,6 +1,6 @@
 ## 🐶Projeto HelpDog
 
-O desafio foi criado pelo Iuri Code, dono da comunidade [Codelândia](https://discord.gg/wNCWTVuxyz). Dentro dessa comunidade é divulgado diversos Figmas para praticarmos nosso conhecimento no mundo da tecnologia.
+O desafio foi criado pelo Iuri Silva, dono da comunidade [Codelândia](https://discord.gg/wNCWTVuxyz). Dentro dessa comunidade é divulgado diversos Figmas para praticarmos nosso conhecimento no mundo da tecnologia.
 
 Link para visualização: https://helpdog.vercel.app/
 
